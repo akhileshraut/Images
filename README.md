@@ -34,7 +34,7 @@ Seamless integration with Excel, Azure, and Microsoft Fabric
 
 Scales from small teams to large enterprises
 
-Strong performance for large datasets - https://drive.google.com/file/d/1ANmCjeLvJQwtQvbV4YVOrlaPi6TCK85G/view
+Strong performance for large datasets 
 
 Common Use Cases 
 
