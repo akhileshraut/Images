@@ -1,4 +1,4 @@
-What Power BI Does
+What Power BI do
 
 Power BI connects to multiple data sources such as Excel files, databases, cloud services, APIs, and enterprise systems. It cleans, models, and visualizes data so decision-makers can quickly understand trends, performance, and risks.
 
